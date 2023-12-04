@@ -2,7 +2,7 @@
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&text=swKim's%20hub&animation=fadeIn&color=C7A48B&height=180)-->
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangwoo97&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangwoo97&layout=compact)
