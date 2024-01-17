@@ -8,8 +8,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangwoo97&layout=compact)
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=aa6618)](https://solved.ac/aa6618)
+<!-- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=aa6618)](https://solved.ac/aa6618) -->
 
 <!--
 **Sangwoo97/Sangwoo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
